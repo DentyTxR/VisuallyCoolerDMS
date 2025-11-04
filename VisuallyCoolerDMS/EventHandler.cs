@@ -56,7 +56,6 @@ namespace VisuallyCoolerDMS
             {
                 yield return MEC.Timing.WaitForSeconds(1);
                 timeleft--;
-                LabApi.Features.Console.Logger.Info(timeleft);
 
                 if (timeleft == 0)
                 {
