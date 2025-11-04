@@ -7,10 +7,10 @@ namespace VisuallyCoolerDMS
     public class Config
     {
         [Description("how long it takes for the lights to flash after DMS has been activated")]
-        public float IntWait { get; set; } = 15f;
+        public float IntWait { get; set; } = 16f;
 
         [Description("how fast the lights will flash")]
-        public float FlashSpeed { get; set; } = 2.5f;
+        public float FlashSpeed { get; set; } = 3.33f;
 
         [Description("min light intensity")]
         public float minIntensity { get; set; } = 0.4f;
