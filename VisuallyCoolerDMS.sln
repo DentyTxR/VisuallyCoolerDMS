@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisuallyCoolerDMS", "VisuallyCoolerDMS\VisuallyCoolerDMS.csproj", "{C1FABA97-D6DB-4959-A4E9-EC6F0EB1513C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FABA97-D6DB-4959-A4E9-EC6F0EB1513C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FABA97-D6DB-4959-A4E9-EC6F0EB1513C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FABA97-D6DB-4959-A4E9-EC6F0EB1513C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FABA97-D6DB-4959-A4E9-EC6F0EB1513C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A38F8297-9C23-43E1-8AB3-42C7F035E9BE}
+	EndGlobalSection
+EndGlobal
